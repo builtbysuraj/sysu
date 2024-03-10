@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309837256198",
+    "firebase_url": "https://sysu-ad161-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heatmap-a2071",
+    "storage_bucket": "heatmap-a2071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309837256198:android:0719223bf3cf96ec615587",
+        "android_client_info": {
+          "package_name": "com.firebase.heatmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309837256198-6tccq60hvhg302cm6fnnoulthkcv32n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfrzNHsQj9QI-czrMPu068ig-ySyF-r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309837256198-6tccq60hvhg302cm6fnnoulthkcv32n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
